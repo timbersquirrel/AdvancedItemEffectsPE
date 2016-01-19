@@ -15,4 +15,6 @@ Delete from enchantment: /aie dfe
 #Note
 One enchantment (not including level) can only be assigned one effect, so Durability I and Durability II can have different effects
 
+Adding effects to existing enchantments or items will overwrite the effects already set on them
+
 Effects will only be applied when a player holds the item(PlayerItemHeldEvent)

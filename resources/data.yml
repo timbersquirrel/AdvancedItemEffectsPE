@@ -1,0 +1,7 @@
+---
+#Data storage for effects added to enchantments
+
+#Example
+#EnchantmentId EnchantmentLevel:
+#  - "EffectId EffectDuration EffectAmplifier"
+...

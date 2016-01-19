@@ -4,11 +4,11 @@ Adding an effect is global, any tools with that enchantment will give the player
 Adding an effect to an item will only apply it to that item
 
 #Commands
-Add effect to item: /aie ati Effect Id Duration Amplifier
+Add effect to item: /aie ati Effect-Id Duration Amplifier
 
 Delete effect from item: /aie dfi
 
-Add to enchantment: /aie ate Effect Id Duration Amplifier
+Add to enchantment: /aie ate Effect-Id Duration Amplifier
 
 Delete from enchantment: /aie dfe
 

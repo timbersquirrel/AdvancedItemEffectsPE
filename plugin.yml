@@ -2,10 +2,12 @@ name: AdvancedItemEffectsPE
 main: AdvancedItemEffectsPE\Main
 version: 1.0.0
 api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9]
+load: STARTUP
 authors: [ace,Timbersquirrel]
 description: Built for AnarchyCE!
 commands:
  aie:
+  default: true
   permission: AdvancedItemEffects.command
   description: AdvancedItemEffects command
 permissions:
